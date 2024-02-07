@@ -1,4 +1,4 @@
-# Multi User Todo Application using Django
+# Simple Multi User To-do Application using Django
 
 
 ## Description

@@ -2,16 +2,15 @@
 
 
 ## Description
-This project is a multi-user todo application built using Django. It allows users to create, manage, and track their tasks in a collaborative environment. 
+This project is a Simple To-Do List website using Django. It allows multiple users to create, manage their tasks in a collaborative environment. 
 
 ## Features
 - User registration and authentication
 - Create, edit, and delete tasks
 - Assign tasks to specific users
-- Mark tasks as completed
 
 ## Installation
-1. Clone the repository: ``
+1. Clone the repository
 2. Navigate to the project directory: `cd todo`
 3. Install dependencies: `pip install django`
 4. Set up the database: `python manage.py makemigrations`and `python manage.py migrate`
@@ -24,10 +23,3 @@ This project is a multi-user todo application built using Django. It allows user
 3. Add and manage your todo tasks
 4. Collaborate with other users by assigning tasks to them
 
-## Contributing
-If you'd like to contribute to this project, follow these steps:
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Submit a pull request

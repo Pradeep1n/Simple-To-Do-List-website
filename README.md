@@ -1,4 +1,4 @@
-# Simple Multi User To-do Application using Django
+# Simple To-do List Website using Django
 
 
 ## Description
